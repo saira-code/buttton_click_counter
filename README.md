@@ -6,13 +6,8 @@ Built using **HTML**, **CSS**, and **JavaScript**.
 ---
 
 ## 🚀 Demo
-🔗 [Live App](https://your-username.github.io/button-click-counter/)  
+🔗 [Live App](https://saira-code.github.io/buttton_click_counter/)  
 (Save & refresh page if the link is not loading.)
-
----
-
-## 📸 Screenshot
-![Screenshot](https://drive.google.com/file/d/1_PvSh7WPVlirmRHLb5byD-HVCwNvuWry/view?usp=drive_link)
 
 ---
 
